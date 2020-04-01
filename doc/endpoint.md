@@ -1,7 +1,7 @@
-# Api Endpoints for BlueHelix Broker
+# Api Endpoints for PCSEX
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.bhex.com](https://api.bhex.com)**
-web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
-user-data-stream | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
+rest-api | **[https://api.pcsex.com](https://api.pcsex.com)**
+web-socket-streams | **[wss://wsapi.pcsex.com](wss://wsapi.pcsex.com)**
+user-data-stream | **[wss://wsapi.pcsex.com](wss://wsapi.pcsex.com)**
